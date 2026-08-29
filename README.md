@@ -1,2 +1,2 @@
 # silenceapp
-silence app is a iOS anti-spam telephone 
+silence app is a iOS anti-spam phone
